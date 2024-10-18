@@ -12,7 +12,9 @@ Nesta primeiro parte o que fiz foi testar o Blink no LED interno do Arduino Uno.
 
 ![IDE com o Código do Blink](ide.jpg)
 
-#### Vídeo do arduino físico funcionando com o código:
+#### Vídeo do arduino físico funcionando com o código: 
+Pode ser localizado na pasta. O arquivo tem o nome "video-parte1-ponderada.mp4".
+
 
 <video width="420" height="440" controls>
   <source src="video-parte1-ponderada.mp4" type="video/mp4">
@@ -39,6 +41,9 @@ void loop() { // Função que permite que o código fique "rodando" continuament
 ### Projeto no Tinkercad: [clique aqui!](https://www.tinkercad.com/things/bpWbTujxiLW/editel?sharecode=4yHk3sOo9T2pa2B8Dpc1ia3Z4UgAnpgbq7VeMp8QcJ0)
 
 ### Vídeo da Simulação: 
+Pode ser localizado na pasta. O arquivo tem o nome "video-parte2-ponderada.mp4".
+
+
 <video width="420" height="440" controls>
   <source src="video-parte2-ponderada.mp4" type="video/mp4">
 </video>
@@ -50,6 +55,9 @@ Por fim, montei o circuito físico utilizando um protoboard, LED, resistor (1kΩ
 O código utilizado foi o mesmo da simulação do Tinkercad.
 
 ### Vídeo de demonstração: 
+Pode ser localizado na pasta. O arquivo tem o nome "video-parte3-ponderada.mp4".
+
+
 <video width="420" height="440" controls>
   <source src="video-parte3-ponderada.mp4" type="video/mp4">
 </video>
